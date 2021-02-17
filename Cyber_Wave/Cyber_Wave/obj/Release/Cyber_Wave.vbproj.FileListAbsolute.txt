@@ -1,0 +1,50 @@
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.exe.config
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\bin\Release\Crime_Wave.mdb
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.exe
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.pdb
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.xml
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Accused.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Cases.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Case_Statements.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Crime.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Criminal.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.FIR.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.ForensicInvestigator.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Form1.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Home.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Login.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Resources.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Petitioner.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Station.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Victim.resources
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.vbproj.GenerateResource.Cache
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.exe
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.xml
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.pdb
+C:\Users\dadzi\Documents\Visual Studio 2015\Projects\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.About.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.exe.config
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.exe
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.xml
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.pdb
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\bin\Release\Crime_Wave.mdb
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.exe
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.pdb
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\bin\Release\Cyber_Wave.xml
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.About.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Accused.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Cases.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Case_Statements.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Crime.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Criminal.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.FIR.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.ForensicInvestigator.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Form1.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Form2.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Home.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Login.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Resources.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Petitioner.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Station.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.Victim.resources
+C:\Users\user\Desktop\Cyber_Wave\Cyber_Wave\Cyber_Wave\obj\Release\Cyber_Wave.vbproj.GenerateResource.Cache
